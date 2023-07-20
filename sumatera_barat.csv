@@ -1,0 +1,752 @@
+,date,RR,region_name,province_name,month
+45,2020-01-01,27.9,Kab. Padang Pariaman,Sumatera Barat,01
+47,2020-01-01,0.0,Kota Padang,Sumatera Barat,01
+102,2020-01-01,2.2,Kab. Padang Pariaman,Sumatera Barat,01
+1097,2020-02-01,0.3,Kab. Padang Pariaman,Sumatera Barat,02
+1110,2020-02-01,0.0,Kota Padang,Sumatera Barat,02
+1113,2020-02-01,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+2248,2020-03-01,23.9,Kab. Padang Pariaman,Sumatera Barat,03
+3283,2020-04-01,0.0,Kab. Padang Pariaman,Sumatera Barat,04
+3361,2020-04-01,0.0,Kab. Padang Pariaman,Sumatera Barat,04
+4282,2020-05-01,66.7,Kota Padang,Sumatera Barat,05
+4285,2020-05-01,32.6,Kab. Padang Pariaman,Sumatera Barat,05
+4327,2020-05-01,51.2,Kab. Padang Pariaman,Sumatera Barat,05
+5353,2020-06-01,0.0,Kota Padang,Sumatera Barat,06
+6308,2020-07-01,0.9,Kab. Padang Pariaman,Sumatera Barat,07
+6334,2020-07-01,0.0,Kota Padang,Sumatera Barat,07
+7376,2020-08-01,10.0,Kab. Agam,Sumatera Barat,08
+7377,2020-08-01,42.0,Kab. Padang Pariaman,Sumatera Barat,08
+7389,2020-08-01,8.5,Kota Padang,Sumatera Barat,08
+7390,2020-08-01,19.8,Kab. Padang Pariaman,Sumatera Barat,08
+8386,2020-09-01,41.3,Kab. Padang Pariaman,Sumatera Barat,09
+8438,2020-09-01,9.5,Kota Padang,Sumatera Barat,09
+8439,2020-09-01,56.9,Kab. Padang Pariaman,Sumatera Barat,09
+9405,2020-10-01,14.8,Kota Padang,Sumatera Barat,10
+9407,2020-10-01,33.0,Kab. Padang Pariaman,Sumatera Barat,10
+9449,2020-10-01,1.0,Kab. Padang Pariaman,Sumatera Barat,10
+10501,2020-11-01,6.7,Kab. Padang Pariaman,Sumatera Barat,11
+10503,2020-11-01,18.1,Kota Padang,Sumatera Barat,11
+10562,2020-11-01,43.6,Kab. Padang Pariaman,Sumatera Barat,11
+11577,2020-12-01,0.0,Kab. Padang Pariaman,Sumatera Barat,12
+11578,2020-12-01,0.0,Kab. Agam,Sumatera Barat,12
+11600,2020-12-01,0.0,Kota Padang,Sumatera Barat,12
+12723,2020-01-02,0.0,Kota Padang,Sumatera Barat,01
+13775,2020-02-02,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+13841,2020-02-02,0.0,Kota Padang,Sumatera Barat,02
+13844,2020-02-02,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+14847,2020-03-02,35.0,Kota Padang,Sumatera Barat,03
+14898,2020-03-02,9.0,Kab. Padang Pariaman,Sumatera Barat,03
+15995,2020-04-02,0.0,Kota Padang,Sumatera Barat,04
+17014,2020-05-02,13.3,Kab. Padang Pariaman,Sumatera Barat,05
+17031,2020-05-02,78.0,Kota Padang,Sumatera Barat,05
+17034,2020-05-02,29.3,Kab. Padang Pariaman,Sumatera Barat,05
+18112,2020-06-02,0.6,Kab. Padang Pariaman,Sumatera Barat,06
+18123,2020-06-02,0.0,Kota Padang,Sumatera Barat,06
+19170,2020-07-02,26.0,Kab. Padang Pariaman,Sumatera Barat,07
+19171,2020-07-02,0.0,Kota Padang,Sumatera Barat,07
+20128,2020-08-02,0.0,Kota Padang,Sumatera Barat,08
+20174,2020-08-02,2.0,Kab. Agam,Sumatera Barat,08
+21204,2020-09-02,48.0,Kota Padang,Sumatera Barat,09
+21248,2020-09-02,0.9,Kab. Padang Pariaman,Sumatera Barat,09
+22234,2020-10-02,48.0,Kab. Padang Pariaman,Sumatera Barat,10
+22251,2020-10-02,83.7,Kab. Padang Pariaman,Sumatera Barat,10
+22253,2020-10-02,126.6,Kota Padang,Sumatera Barat,10
+23376,2020-11-02,5.8,Kab. Padang Pariaman,Sumatera Barat,11
+23386,2020-11-02,0.0,Kab. Padang Pariaman,Sumatera Barat,11
+23387,2020-11-02,0.0,Kota Padang,Sumatera Barat,11
+25517,2020-01-03,0.0,Kota Padang,Sumatera Barat,01
+26617,2020-02-03,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+26660,2020-02-03,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+27663,2020-03-03,114.1,Kab. Padang Pariaman,Sumatera Barat,03
+27670,2020-03-03,122.5,Kota Padang,Sumatera Barat,03
+27672,2020-03-03,71.0,Kab. Padang Pariaman,Sumatera Barat,03
+28775,2020-04-03,4.7,Kab. Padang Pariaman,Sumatera Barat,04
+28793,2020-04-03,0.0,Kota Padang,Sumatera Barat,04
+28795,2020-04-03,0.9,Kab. Padang Pariaman,Sumatera Barat,04
+29807,2020-05-03,21.7,Kab. Padang Pariaman,Sumatera Barat,05
+29872,2020-05-03,51.4,Kota Padang,Sumatera Barat,05
+30893,2020-06-03,2.0,Kab. Padang Pariaman,Sumatera Barat,06
+31893,2020-07-03,0.0,Kota Padang,Sumatera Barat,07
+33919,2020-09-03,10.5,Kab. Padang Pariaman,Sumatera Barat,09
+33939,2020-09-03,2.3,Kab. Padang Pariaman,Sumatera Barat,09
+33942,2020-09-03,0.5,Kota Padang,Sumatera Barat,09
+34953,2020-10-03,7.5,Kab. Padang Pariaman,Sumatera Barat,10
+35027,2020-10-03,23.8,Kota Padang,Sumatera Barat,10
+35028,2020-10-03,18.0,Kab. Padang Pariaman,Sumatera Barat,10
+36009,2020-11-03,3.0,Kab. Padang Pariaman,Sumatera Barat,11
+36010,2020-11-03,8.3,Kota Padang,Sumatera Barat,11
+36056,2020-11-03,1.5,Kab. Padang Pariaman,Sumatera Barat,11
+38184,2020-01-04,0.0,Kota Padang,Sumatera Barat,01
+39316,2020-02-04,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+39326,2020-02-04,0.0,Kota Padang,Sumatera Barat,02
+40446,2020-03-04,4.4,Kab. Padang Pariaman,Sumatera Barat,03
+41438,2020-04-04,1.0,Kota Padang,Sumatera Barat,04
+41439,2020-04-04,26.7,Kab. Padang Pariaman,Sumatera Barat,04
+41476,2020-04-04,0.0,Kab. Padang Pariaman,Sumatera Barat,04
+42507,2020-05-04,5.1,Kota Padang,Sumatera Barat,05
+42509,2020-05-04,3.0,Kab. Padang Pariaman,Sumatera Barat,05
+42553,2020-05-04,4.8,Kab. Padang Pariaman,Sumatera Barat,05
+43517,2020-06-04,32.2,Kab. Padang Pariaman,Sumatera Barat,06
+43536,2020-06-04,1.7,Kota Padang,Sumatera Barat,06
+43537,2020-06-04,20.0,Kab. Padang Pariaman,Sumatera Barat,06
+44600,2020-07-04,1.5,Kab. Padang Pariaman,Sumatera Barat,07
+44603,2020-07-04,1.0,Kota Padang,Sumatera Barat,07
+45611,2020-08-04,15.0,Kab. Agam,Sumatera Barat,08
+45612,2020-08-04,6.8,Kab. Padang Pariaman,Sumatera Barat,08
+45671,2020-08-04,72.5,Kota Padang,Sumatera Barat,08
+45672,2020-08-04,19.5,Kab. Padang Pariaman,Sumatera Barat,08
+46658,2020-09-04,35.1,Kota Padang,Sumatera Barat,09
+46661,2020-09-04,35.0,Kab. Padang Pariaman,Sumatera Barat,09
+46698,2020-09-04,69.9,Kab. Padang Pariaman,Sumatera Barat,09
+48783,2020-11-04,38.6,Kab. Padang Pariaman,Sumatera Barat,11
+48808,2020-11-04,11.8,Kab. Padang Pariaman,Sumatera Barat,11
+48810,2020-11-04,7.2,Kota Padang,Sumatera Barat,11
+49926,2020-12-04,0.0,Kota Padang,Sumatera Barat,12
+49927,2020-12-04,0.0,Kab. Padang Pariaman,Sumatera Barat,12
+52019,2020-02-05,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+52022,2020-02-05,0.0,Kota Padang,Sumatera Barat,02
+52082,2020-02-05,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+53125,2020-03-05,15.9,Kab. Padang Pariaman,Sumatera Barat,03
+54155,2020-04-05,128.5,Kab. Padang Pariaman,Sumatera Barat,04
+54164,2020-04-05,23.0,Kota Padang,Sumatera Barat,04
+54166,2020-04-05,5.6,Kab. Padang Pariaman,Sumatera Barat,04
+55213,2020-05-05,0.0,Kota Padang,Sumatera Barat,05
+56196,2020-06-05,8.6,Kab. Padang Pariaman,Sumatera Barat,06
+56247,2020-06-05,10.2,Kota Padang,Sumatera Barat,06
+56248,2020-06-05,6.4,Kab. Padang Pariaman,Sumatera Barat,06
+57158,2020-07-05,0.0,Kota Padang,Sumatera Barat,07
+58201,2020-08-05,0.7,Kota Padang,Sumatera Barat,08
+58202,2020-08-05,7.3,Kab. Padang Pariaman,Sumatera Barat,08
+58241,2020-08-05,12.0,Kab. Padang Pariaman,Sumatera Barat,08
+58242,2020-08-05,6.0,Kab. Agam,Sumatera Barat,08
+59214,2020-09-05,34.8,Kab. Padang Pariaman,Sumatera Barat,09
+59244,2020-09-05,25.0,Kab. Padang Pariaman,Sumatera Barat,09
+59245,2020-09-05,30.5,Kota Padang,Sumatera Barat,09
+60326,2020-10-05,17.8,Kab. Padang Pariaman,Sumatera Barat,10
+60342,2020-10-05,6.0,Kota Padang,Sumatera Barat,10
+60343,2020-10-05,1.9,Kab. Padang Pariaman,Sumatera Barat,10
+61393,2020-11-05,1.1,Kab. Padang Pariaman,Sumatera Barat,11
+62541,2020-12-05,0.0,Kab. Agam,Sumatera Barat,12
+63596,2020-01-06,20.4,Kab. Padang Pariaman,Sumatera Barat,01
+64654,2020-02-06,25.0,Kab. Padang Pariaman,Sumatera Barat,02
+64660,2020-02-06,5.4,Kab. Padang Pariaman,Sumatera Barat,02
+64661,2020-02-06,4.0,Kota Padang,Sumatera Barat,02
+65772,2020-03-06,9.9,Kab. Padang Pariaman,Sumatera Barat,03
+65783,2020-03-06,3.0,Kota Padang,Sumatera Barat,03
+66818,2020-04-06,12.7,Kab. Padang Pariaman,Sumatera Barat,04
+66874,2020-04-06,20.0,Kota Padang,Sumatera Barat,04
+66875,2020-04-06,20.9,Kab. Padang Pariaman,Sumatera Barat,04
+67844,2020-05-06,22.2,Kota Padang,Sumatera Barat,05
+67847,2020-05-06,18.5,Kab. Padang Pariaman,Sumatera Barat,05
+67890,2020-05-06,5.0,Kab. Padang Pariaman,Sumatera Barat,05
+68893,2020-06-06,39.3,Kota Padang,Sumatera Barat,06
+68929,2020-06-06,58.2,Kab. Padang Pariaman,Sumatera Barat,06
+69896,2020-07-06,0.0,Kota Padang,Sumatera Barat,07
+71935,2020-09-06,5.0,Kab. Padang Pariaman,Sumatera Barat,09
+72001,2020-09-06,11.0,Kota Padang,Sumatera Barat,09
+72003,2020-09-06,2.5,Kab. Padang Pariaman,Sumatera Barat,09
+72976,2020-10-06,24.3,Kab. Padang Pariaman,Sumatera Barat,10
+73019,2020-10-06,91.1,Kab. Padang Pariaman,Sumatera Barat,10
+74068,2020-11-06,0.0,Kota Padang,Sumatera Barat,11
+74069,2020-11-06,0.0,Kab. Padang Pariaman,Sumatera Barat,11
+75129,2020-12-06,0.0,Kota Padang,Sumatera Barat,12
+76239,2020-01-07,0.0,Kab. Padang Pariaman,Sumatera Barat,01
+76240,2020-01-07,0.0,Kota Padang,Sumatera Barat,01
+77356,2020-02-07,9.4,Kab. Padang Pariaman,Sumatera Barat,02
+77357,2020-02-07,2.0,Kota Padang,Sumatera Barat,02
+78333,2020-03-07,0.0,Kota Padang,Sumatera Barat,03
+78336,2020-03-07,0.0,Kab. Padang Pariaman,Sumatera Barat,03
+79438,2020-04-07,81.5,Kota Padang,Sumatera Barat,04
+79439,2020-04-07,32.6,Kab. Padang Pariaman,Sumatera Barat,04
+79477,2020-04-07,13.9,Kab. Padang Pariaman,Sumatera Barat,04
+80421,2020-05-07,0.0,Kab. Padang Pariaman,Sumatera Barat,05
+80435,2020-05-07,28.1,Kota Padang,Sumatera Barat,05
+82519,2020-07-07,21.8,Kab. Padang Pariaman,Sumatera Barat,07
+82576,2020-07-07,0.0,Kota Padang,Sumatera Barat,07
+83547,2020-08-07,0.0,Kota Padang,Sumatera Barat,08
+83585,2020-08-07,0.0,Kab. Padang Pariaman,Sumatera Barat,08
+84600,2020-09-07,0.0,Kota Padang,Sumatera Barat,09
+85599,2020-10-07,5.0,Kab. Padang Pariaman,Sumatera Barat,10
+85614,2020-10-07,43.5,Kota Padang,Sumatera Barat,10
+85616,2020-10-07,25.9,Kab. Padang Pariaman,Sumatera Barat,10
+86707,2020-11-07,10.0,Kota Padang,Sumatera Barat,11
+86709,2020-11-07,7.1,Kab. Padang Pariaman,Sumatera Barat,11
+87863,2020-12-07,0.0,Kota Padang,Sumatera Barat,12
+88868,2020-01-08,0.0,Kab. Padang Pariaman,Sumatera Barat,01
+89974,2020-02-08,46.8,Kota Padang,Sumatera Barat,02
+89977,2020-02-08,23.2,Kab. Padang Pariaman,Sumatera Barat,02
+90013,2020-02-08,67.1,Kab. Padang Pariaman,Sumatera Barat,02
+91003,2020-03-08,0.1,Kab. Padang Pariaman,Sumatera Barat,03
+91022,2020-03-08,0.0,Kota Padang,Sumatera Barat,03
+92098,2020-04-08,38.5,Kab. Padang Pariaman,Sumatera Barat,04
+92109,2020-04-08,5.2,Kab. Padang Pariaman,Sumatera Barat,04
+92110,2020-04-08,4.6,Kota Padang,Sumatera Barat,04
+93113,2020-05-08,27.6,Kab. Padang Pariaman,Sumatera Barat,05
+93168,2020-05-08,5.4,Kab. Padang Pariaman,Sumatera Barat,05
+93170,2020-05-08,7.6,Kota Padang,Sumatera Barat,05
+94112,2020-06-08,0.0,Kota Padang,Sumatera Barat,06
+95170,2020-07-08,4.5,Kota Padang,Sumatera Barat,07
+95173,2020-07-08,10.3,Kab. Padang Pariaman,Sumatera Barat,07
+95215,2020-07-08,30.0,Kab. Padang Pariaman,Sumatera Barat,07
+96178,2020-08-08,0.0,Kota Padang,Sumatera Barat,08
+97244,2020-09-08,1.2,Kota Padang,Sumatera Barat,09
+98255,2020-10-08,4.4,Kab. Padang Pariaman,Sumatera Barat,10
+98334,2020-10-08,38.5,Kab. Padang Pariaman,Sumatera Barat,10
+98336,2020-10-08,91.0,Kota Padang,Sumatera Barat,10
+99332,2020-11-08,65.8,Kota Padang,Sumatera Barat,11
+99334,2020-11-08,5.5,Kab. Padang Pariaman,Sumatera Barat,11
+99386,2020-11-08,66.3,Kab. Padang Pariaman,Sumatera Barat,11
+100455,2020-12-08,3.2,Kab. Padang Pariaman,Sumatera Barat,12
+101483,2020-01-09,0.0,Kota Padang,Sumatera Barat,01
+102585,2020-02-09,12.3,Kab. Padang Pariaman,Sumatera Barat,02
+102595,2020-02-09,16.2,Kab. Padang Pariaman,Sumatera Barat,02
+103596,2020-03-09,0.4,Kab. Padang Pariaman,Sumatera Barat,03
+103664,2020-03-09,15.6,Kota Padang,Sumatera Barat,03
+103665,2020-03-09,4.6,Kab. Padang Pariaman,Sumatera Barat,03
+105707,2020-05-09,51.0,Kota Padang,Sumatera Barat,05
+105710,2020-05-09,21.0,Kab. Padang Pariaman,Sumatera Barat,05
+105745,2020-05-09,9.5,Kab. Padang Pariaman,Sumatera Barat,05
+107794,2020-07-09,13.0,Kab. Padang Pariaman,Sumatera Barat,07
+107810,2020-07-09,138.3,Kab. Padang Pariaman,Sumatera Barat,07
+107811,2020-07-09,74.8,Kota Padang,Sumatera Barat,07
+108874,2020-08-09,0.0,Kota Padang,Sumatera Barat,08
+109828,2020-09-09,68.2,Kab. Padang Pariaman,Sumatera Barat,09
+109829,2020-09-09,3.5,Kota Padang,Sumatera Barat,09
+109867,2020-09-09,0.7,Kab. Padang Pariaman,Sumatera Barat,09
+110910,2020-10-09,48.7,Kab. Padang Pariaman,Sumatera Barat,10
+110911,2020-10-09,53.7,Kota Padang,Sumatera Barat,10
+110968,2020-10-09,17.1,Kab. Padang Pariaman,Sumatera Barat,10
+111977,2020-11-09,8.4,Kab. Padang Pariaman,Sumatera Barat,11
+111992,2020-11-09,3.3,Kab. Padang Pariaman,Sumatera Barat,11
+111994,2020-11-09,7.8,Kota Padang,Sumatera Barat,11
+113138,2020-12-09,5.9,Kab. Padang Pariaman,Sumatera Barat,12
+113156,2020-12-09,7.2,Kota Padang,Sumatera Barat,12
+114196,2020-01-10,31.4,Kab. Padang Pariaman,Sumatera Barat,01
+114268,2020-01-10,150.5,Kota Padang,Sumatera Barat,01
+114269,2020-01-10,98.5,Kab. Padang Pariaman,Sumatera Barat,01
+115260,2020-02-10,0.0,Kota Padang,Sumatera Barat,02
+116377,2020-03-10,0.0,Kota Padang,Sumatera Barat,03
+117407,2020-04-10,119.3,Kab. Padang Pariaman,Sumatera Barat,04
+117426,2020-04-10,7.5,Kota Padang,Sumatera Barat,04
+117428,2020-04-10,50.0,Kab. Padang Pariaman,Sumatera Barat,04
+118494,2020-05-10,0.7,Kota Padang,Sumatera Barat,05
+118495,2020-05-10,8.5,Kab. Padang Pariaman,Sumatera Barat,05
+119548,2020-06-10,0.0,Kota Padang,Sumatera Barat,06
+120513,2020-07-10,0.0,Kota Padang,Sumatera Barat,07
+120552,2020-07-10,0.4,Kab. Padang Pariaman,Sumatera Barat,07
+121575,2020-08-10,0.0,Kab. Padang Pariaman,Sumatera Barat,08
+121576,2020-08-10,0.0,Kota Padang,Sumatera Barat,08
+122549,2020-09-10,1.2,Kab. Padang Pariaman,Sumatera Barat,09
+122566,2020-09-10,235.2,Kota Padang,Sumatera Barat,09
+122567,2020-09-10,51.9,Kab. Padang Pariaman,Sumatera Barat,09
+123661,2020-10-10,37.8,Kab. Padang Pariaman,Sumatera Barat,10
+123668,2020-10-10,49.0,Kota Padang,Sumatera Barat,10
+123670,2020-10-10,44.3,Kab. Padang Pariaman,Sumatera Barat,10
+124734,2020-11-10,17.1,Kab. Padang Pariaman,Sumatera Barat,11
+124798,2020-11-10,28.9,Kota Padang,Sumatera Barat,11
+124799,2020-11-10,9.5,Kab. Padang Pariaman,Sumatera Barat,11
+125796,2020-12-10,37.0,Kota Padang,Sumatera Barat,12
+125797,2020-12-10,32.0,Kab. Padang Pariaman,Sumatera Barat,12
+125843,2020-12-10,44.9,Kab. Padang Pariaman,Sumatera Barat,12
+125844,2020-12-10,29.0,Kab. Agam,Sumatera Barat,12
+126890,2020-01-11,32.9,Kota Padang,Sumatera Barat,01
+126892,2020-01-11,46.3,Kab. Padang Pariaman,Sumatera Barat,01
+126932,2020-01-11,17.6,Kab. Padang Pariaman,Sumatera Barat,01
+127943,2020-02-11,24.0,Kab. Padang Pariaman,Sumatera Barat,02
+127960,2020-02-11,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+127962,2020-02-11,2.0,Kota Padang,Sumatera Barat,02
+130116,2020-04-11,29.9,Kab. Padang Pariaman,Sumatera Barat,04
+130118,2020-04-11,9.9,Kota Padang,Sumatera Barat,04
+131112,2020-05-11,2.6,Kab. Padang Pariaman,Sumatera Barat,05
+132108,2020-06-11,0.0,Kota Padang,Sumatera Barat,06
+133113,2020-07-11,0.0,Kota Padang,Sumatera Barat,07
+134169,2020-08-11,0.0,Kab. Padang Pariaman,Sumatera Barat,08
+135191,2020-09-11,11.5,Kab. Padang Pariaman,Sumatera Barat,09
+135256,2020-09-11,26.0,Kab. Padang Pariaman,Sumatera Barat,09
+135257,2020-09-11,32.7,Kota Padang,Sumatera Barat,09
+136226,2020-10-11,0.0,Kab. Padang Pariaman,Sumatera Barat,10
+136228,2020-10-11,0.0,Kota Padang,Sumatera Barat,10
+136273,2020-10-11,0.9,Kab. Padang Pariaman,Sumatera Barat,10
+137354,2020-11-11,0.5,Kab. Padang Pariaman,Sumatera Barat,11
+138407,2020-12-11,30.8,Kab. Padang Pariaman,Sumatera Barat,12
+138408,2020-12-11,14.0,Kab. Agam,Sumatera Barat,12
+138412,2020-12-11,45.3,Kota Padang,Sumatera Barat,12
+138413,2020-12-11,33.1,Kab. Padang Pariaman,Sumatera Barat,12
+139524,2020-01-12,7.0,Kab. Padang Pariaman,Sumatera Barat,01
+139527,2020-01-12,6.5,Kota Padang,Sumatera Barat,01
+140579,2020-02-12,14.5,Kab. Padang Pariaman,Sumatera Barat,02
+141620,2020-03-12,0.0,Kota Padang,Sumatera Barat,03
+142703,2020-04-12,1.5,Kota Padang,Sumatera Barat,04
+143705,2020-05-12,0.0,Kab. Padang Pariaman,Sumatera Barat,05
+143716,2020-05-12,0.0,Kab. Padang Pariaman,Sumatera Barat,05
+143717,2020-05-12,0.0,Kota Padang,Sumatera Barat,05
+144805,2020-06-12,0.0,Kab. Padang Pariaman,Sumatera Barat,06
+144818,2020-06-12,0.0,Kota Padang,Sumatera Barat,06
+145798,2020-07-12,15.0,Kab. Padang Pariaman,Sumatera Barat,07
+145854,2020-07-12,6.3,Kab. Padang Pariaman,Sumatera Barat,07
+146818,2020-08-12,0.0,Kota Padang,Sumatera Barat,08
+147886,2020-09-12,5.0,Kota Padang,Sumatera Barat,09
+147887,2020-09-12,4.3,Kab. Padang Pariaman,Sumatera Barat,09
+147931,2020-09-12,0.8,Kab. Padang Pariaman,Sumatera Barat,09
+148931,2020-10-12,0.0,Kab. Padang Pariaman,Sumatera Barat,10
+148934,2020-10-12,0.0,Kota Padang,Sumatera Barat,10
+151114,2020-12-12,1.0,Kab. Agam,Sumatera Barat,12
+151115,2020-12-12,3.5,Kab. Padang Pariaman,Sumatera Barat,12
+151193,2020-12-12,0.5,Kab. Padang Pariaman,Sumatera Barat,12
+151195,2020-12-12,0.0,Kota Padang,Sumatera Barat,12
+152187,2020-01-13,2.0,Kota Padang,Sumatera Barat,01
+153334,2020-02-13,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+154289,2020-03-13,10.1,Kab. Padang Pariaman,Sumatera Barat,03
+154301,2020-03-13,14.2,Kota Padang,Sumatera Barat,03
+154302,2020-03-13,5.4,Kab. Padang Pariaman,Sumatera Barat,03
+155374,2020-04-13,33.1,Kab. Padang Pariaman,Sumatera Barat,04
+155375,2020-04-13,5.7,Kota Padang,Sumatera Barat,04
+156398,2020-05-13,89.0,Kab. Padang Pariaman,Sumatera Barat,05
+156448,2020-05-13,39.2,Kota Padang,Sumatera Barat,05
+156449,2020-05-13,122.3,Kab. Padang Pariaman,Sumatera Barat,05
+157410,2020-06-13,13.8,Kab. Padang Pariaman,Sumatera Barat,06
+157413,2020-06-13,4.0,Kota Padang,Sumatera Barat,06
+158481,2020-07-13,16.6,Kota Padang,Sumatera Barat,07
+158483,2020-07-13,76.3,Kab. Padang Pariaman,Sumatera Barat,07
+158534,2020-07-13,46.4,Kab. Padang Pariaman,Sumatera Barat,07
+159477,2020-08-13,8.3,Kab. Padang Pariaman,Sumatera Barat,08
+159478,2020-08-13,9.0,Kab. Agam,Sumatera Barat,08
+159489,2020-08-13,3.2,Kab. Padang Pariaman,Sumatera Barat,08
+159490,2020-08-13,2.5,Kota Padang,Sumatera Barat,08
+160539,2020-09-13,1.8,Kab. Padang Pariaman,Sumatera Barat,09
+160553,2020-09-13,0.0,Kab. Padang Pariaman,Sumatera Barat,09
+160556,2020-09-13,0.8,Kota Padang,Sumatera Barat,09
+161539,2020-10-13,2.8,Kab. Padang Pariaman,Sumatera Barat,10
+161603,2020-10-13,0.5,Kab. Padang Pariaman,Sumatera Barat,10
+161606,2020-10-13,0.0,Kota Padang,Sumatera Barat,10
+162610,2020-11-13,0.0,Kota Padang,Sumatera Barat,11
+163711,2020-12-13,1.0,Kota Padang,Sumatera Barat,12
+163712,2020-12-13,22.5,Kab. Padang Pariaman,Sumatera Barat,12
+163781,2020-12-13,3.9,Kab. Padang Pariaman,Sumatera Barat,12
+163782,2020-12-13,6.0,Kab. Agam,Sumatera Barat,12
+164761,2020-01-14,7.8,Kab. Padang Pariaman,Sumatera Barat,01
+164772,2020-01-14,3.1,Kab. Padang Pariaman,Sumatera Barat,01
+164774,2020-01-14,12.8,Kota Padang,Sumatera Barat,01
+165835,2020-02-14,65.3,Kab. Padang Pariaman,Sumatera Barat,02
+165865,2020-02-14,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+165867,2020-02-14,2.0,Kota Padang,Sumatera Barat,02
+166882,2020-03-14,1.3,Kab. Padang Pariaman,Sumatera Barat,03
+166957,2020-03-14,0.0,Kota Padang,Sumatera Barat,03
+167938,2020-04-14,1.5,Kota Padang,Sumatera Barat,04
+167939,2020-04-14,4.0,Kab. Padang Pariaman,Sumatera Barat,04
+167981,2020-04-14,5.1,Kab. Padang Pariaman,Sumatera Barat,04
+170049,2020-06-14,0.0,Kota Padang,Sumatera Barat,06
+170052,2020-06-14,0.5,Kab. Padang Pariaman,Sumatera Barat,06
+171134,2020-07-14,1.1,Kab. Padang Pariaman,Sumatera Barat,07
+171149,2020-07-14,2.2,Kota Padang,Sumatera Barat,07
+171150,2020-07-14,1.7,Kab. Padang Pariaman,Sumatera Barat,07
+172206,2020-08-14,0.6,Kab. Padang Pariaman,Sumatera Barat,08
+172207,2020-08-14,0.0,Kota Padang,Sumatera Barat,08
+173164,2020-09-14,0.0,Kota Padang,Sumatera Barat,09
+174238,2020-10-14,0.0,Kota Padang,Sumatera Barat,10
+174239,2020-10-14,0.0,Kab. Padang Pariaman,Sumatera Barat,10
+174296,2020-10-14,0.3,Kab. Padang Pariaman,Sumatera Barat,10
+175300,2020-11-14,8.5,Kab. Padang Pariaman,Sumatera Barat,11
+175320,2020-11-14,4.0,Kab. Padang Pariaman,Sumatera Barat,11
+175321,2020-11-14,1.0,Kota Padang,Sumatera Barat,11
+176434,2020-12-14,0.5,Kota Padang,Sumatera Barat,12
+176435,2020-12-14,3.0,Kab. Padang Pariaman,Sumatera Barat,12
+177483,2020-01-15,1.8,Kab. Padang Pariaman,Sumatera Barat,01
+177548,2020-01-15,0.0,Kota Padang,Sumatera Barat,01
+178503,2020-02-15,46.1,Kab. Padang Pariaman,Sumatera Barat,02
+178504,2020-02-15,121.3,Kota Padang,Sumatera Barat,02
+178555,2020-02-15,70.6,Kab. Padang Pariaman,Sumatera Barat,02
+179621,2020-03-15,0.0,Kab. Padang Pariaman,Sumatera Barat,03
+180643,2020-04-15,38.5,Kab. Padang Pariaman,Sumatera Barat,04
+180660,2020-04-15,0.1,Kota Padang,Sumatera Barat,04
+181772,2020-05-15,18.5,Kab. Padang Pariaman,Sumatera Barat,05
+181778,2020-05-15,0.0,Kota Padang,Sumatera Barat,05
+182859,2020-06-15,0.0,Kota Padang,Sumatera Barat,06
+182862,2020-06-15,0.0,Kab. Padang Pariaman,Sumatera Barat,06
+184887,2020-08-15,2.5,Kota Padang,Sumatera Barat,08
+184931,2020-08-15,1.2,Kab. Padang Pariaman,Sumatera Barat,08
+184932,2020-08-15,1.0,Kab. Agam,Sumatera Barat,08
+186808,2020-10-15,1.8,Kab. Padang Pariaman,Sumatera Barat,10
+186845,2020-10-15,1.0,Kab. Padang Pariaman,Sumatera Barat,10
+186846,2020-10-15,0.1,Kota Padang,Sumatera Barat,10
+187977,2020-11-15,7.6,Kab. Padang Pariaman,Sumatera Barat,11
+188010,2020-11-15,6.0,Kota Padang,Sumatera Barat,11
+188013,2020-11-15,0.0,Kab. Padang Pariaman,Sumatera Barat,11
+189018,2020-12-15,30.9,Kota Padang,Sumatera Barat,12
+189019,2020-12-15,2.0,Kab. Padang Pariaman,Sumatera Barat,12
+189120,2020-12-15,8.1,Kab. Padang Pariaman,Sumatera Barat,12
+189121,2020-12-15,7.0,Kab. Agam,Sumatera Barat,12
+190128,2020-01-16,0.0,Kota Padang,Sumatera Barat,01
+190130,2020-01-16,0.0,Kab. Padang Pariaman,Sumatera Barat,01
+191183,2020-02-16,7.5,Kota Padang,Sumatera Barat,02
+191185,2020-02-16,5.7,Kab. Padang Pariaman,Sumatera Barat,02
+191210,2020-02-16,9.8,Kab. Padang Pariaman,Sumatera Barat,02
+192296,2020-03-16,0.0,Kota Padang,Sumatera Barat,03
+193328,2020-04-16,23.4,Kab. Padang Pariaman,Sumatera Barat,04
+193350,2020-04-16,0.2,Kota Padang,Sumatera Barat,04
+194340,2020-05-16,2.0,Kota Padang,Sumatera Barat,05
+194341,2020-05-16,2.2,Kab. Padang Pariaman,Sumatera Barat,05
+194411,2020-05-16,17.6,Kab. Padang Pariaman,Sumatera Barat,05
+196404,2020-07-16,0.0,Kota Padang,Sumatera Barat,07
+196407,2020-07-16,0.0,Kab. Padang Pariaman,Sumatera Barat,07
+197433,2020-08-16,6.0,Kab. Agam,Sumatera Barat,08
+197434,2020-08-16,15.6,Kab. Padang Pariaman,Sumatera Barat,08
+197477,2020-08-16,8.2,Kota Padang,Sumatera Barat,08
+197478,2020-08-16,5.3,Kab. Padang Pariaman,Sumatera Barat,08
+199465,2020-10-16,1.5,Kab. Padang Pariaman,Sumatera Barat,10
+199504,2020-10-16,0.0,Kota Padang,Sumatera Barat,10
+199505,2020-10-16,0.8,Kab. Padang Pariaman,Sumatera Barat,10
+200518,2020-11-16,19.4,Kota Padang,Sumatera Barat,11
+200519,2020-11-16,35.0,Kab. Padang Pariaman,Sumatera Barat,11
+200611,2020-11-16,14.1,Kab. Padang Pariaman,Sumatera Barat,11
+201617,2020-12-16,6.0,Kab. Agam,Sumatera Barat,12
+201618,2020-12-16,3.3,Kab. Padang Pariaman,Sumatera Barat,12
+201660,2020-12-16,10.2,Kota Padang,Sumatera Barat,12
+201661,2020-12-16,5.9,Kab. Padang Pariaman,Sumatera Barat,12
+202707,2020-01-17,54.0,Kab. Padang Pariaman,Sumatera Barat,01
+202708,2020-01-17,47.7,Kota Padang,Sumatera Barat,01
+202721,2020-01-17,130.5,Kab. Padang Pariaman,Sumatera Barat,01
+203793,2020-02-17,1.8,Kab. Padang Pariaman,Sumatera Barat,02
+203817,2020-02-17,5.5,Kab. Padang Pariaman,Sumatera Barat,02
+204918,2020-03-17,0.5,Kota Padang,Sumatera Barat,03
+205891,2020-04-17,7.4,Kota Padang,Sumatera Barat,04
+205892,2020-04-17,20.5,Kab. Padang Pariaman,Sumatera Barat,04
+205974,2020-04-17,30.9,Kab. Padang Pariaman,Sumatera Barat,04
+206924,2020-05-17,18.0,Kab. Padang Pariaman,Sumatera Barat,05
+206953,2020-05-17,7.5,Kab. Padang Pariaman,Sumatera Barat,05
+207973,2020-06-17,17.0,Kab. Padang Pariaman,Sumatera Barat,06
+207974,2020-06-17,3.6,Kota Padang,Sumatera Barat,06
+207989,2020-06-17,30.0,Kab. Padang Pariaman,Sumatera Barat,06
+208979,2020-07-17,36.0,Kab. Padang Pariaman,Sumatera Barat,07
+209009,2020-07-17,2.0,Kota Padang,Sumatera Barat,07
+209010,2020-07-17,19.5,Kab. Padang Pariaman,Sumatera Barat,07
+210011,2020-08-17,2.5,Kab. Padang Pariaman,Sumatera Barat,08
+210012,2020-08-17,44.0,Kab. Agam,Sumatera Barat,08
+210037,2020-08-17,3.0,Kota Padang,Sumatera Barat,08
+210039,2020-08-17,1.7,Kab. Padang Pariaman,Sumatera Barat,08
+211923,2020-10-17,0.0,Kota Padang,Sumatera Barat,10
+211924,2020-10-17,0.0,Kab. Padang Pariaman,Sumatera Barat,10
+213009,2020-11-17,24.1,Kab. Padang Pariaman,Sumatera Barat,11
+213038,2020-11-17,14.8,Kota Padang,Sumatera Barat,11
+214097,2020-12-17,19.5,Kab. Padang Pariaman,Sumatera Barat,12
+214100,2020-12-17,4.6,Kota Padang,Sumatera Barat,12
+214119,2020-12-17,26.8,Kab. Padang Pariaman,Sumatera Barat,12
+214120,2020-12-17,12.0,Kab. Agam,Sumatera Barat,12
+215186,2020-01-18,5.9,Kab. Padang Pariaman,Sumatera Barat,01
+215215,2020-01-18,28.8,Kota Padang,Sumatera Barat,01
+216283,2020-02-18,41.6,Kab. Padang Pariaman,Sumatera Barat,02
+216307,2020-02-18,15.2,Kota Padang,Sumatera Barat,02
+216309,2020-02-18,28.4,Kab. Padang Pariaman,Sumatera Barat,02
+217273,2020-03-18,28.5,Kota Padang,Sumatera Barat,03
+217274,2020-03-18,39.2,Kab. Padang Pariaman,Sumatera Barat,03
+218371,2020-04-18,16.0,Kab. Padang Pariaman,Sumatera Barat,04
+218407,2020-04-18,5.5,Kota Padang,Sumatera Barat,04
+218409,2020-04-18,4.8,Kab. Padang Pariaman,Sumatera Barat,04
+219432,2020-05-18,26.3,Kab. Padang Pariaman,Sumatera Barat,05
+219434,2020-05-18,83.0,Kota Padang,Sumatera Barat,05
+219459,2020-05-18,19.4,Kab. Padang Pariaman,Sumatera Barat,05
+220483,2020-06-18,32.0,Kab. Padang Pariaman,Sumatera Barat,06
+220515,2020-06-18,3.0,Kota Padang,Sumatera Barat,06
+220517,2020-06-18,5.0,Kab. Padang Pariaman,Sumatera Barat,06
+221600,2020-07-18,12.5,Kab. Padang Pariaman,Sumatera Barat,07
+221620,2020-07-18,8.2,Kota Padang,Sumatera Barat,07
+221621,2020-07-18,1.5,Kab. Padang Pariaman,Sumatera Barat,07
+222553,2020-08-18,8.1,Kab. Padang Pariaman,Sumatera Barat,08
+222556,2020-08-18,6.7,Kota Padang,Sumatera Barat,08
+222635,2020-08-18,26.6,Kab. Padang Pariaman,Sumatera Barat,08
+222636,2020-08-18,11.0,Kab. Agam,Sumatera Barat,08
+224522,2020-10-18,1.5,Kab. Padang Pariaman,Sumatera Barat,10
+224545,2020-10-18,0.0,Kota Padang,Sumatera Barat,10
+225618,2020-11-18,72.5,Kab. Padang Pariaman,Sumatera Barat,11
+225619,2020-11-18,48.3,Kota Padang,Sumatera Barat,11
+225643,2020-11-18,3.8,Kab. Padang Pariaman,Sumatera Barat,11
+226734,2020-12-18,12.7,Kab. Padang Pariaman,Sumatera Barat,12
+226735,2020-12-18,7.0,Kab. Agam,Sumatera Barat,12
+226778,2020-12-18,7.1,Kab. Padang Pariaman,Sumatera Barat,12
+226780,2020-12-18,7.1,Kota Padang,Sumatera Barat,12
+227847,2020-01-19,1.7,Kab. Padang Pariaman,Sumatera Barat,01
+227887,2020-01-19,8.9,Kota Padang,Sumatera Barat,01
+227888,2020-01-19,5.0,Kab. Padang Pariaman,Sumatera Barat,01
+228848,2020-02-19,26.5,Kab. Padang Pariaman,Sumatera Barat,02
+229889,2020-03-19,37.9,Kab. Padang Pariaman,Sumatera Barat,03
+229930,2020-03-19,92.2,Kota Padang,Sumatera Barat,03
+229933,2020-03-19,27.9,Kab. Padang Pariaman,Sumatera Barat,03
+230989,2020-04-19,5.1,Kab. Padang Pariaman,Sumatera Barat,04
+231019,2020-04-19,39.0,Kab. Padang Pariaman,Sumatera Barat,04
+233129,2020-06-19,36.3,Kab. Padang Pariaman,Sumatera Barat,06
+233147,2020-06-19,8.4,Kab. Padang Pariaman,Sumatera Barat,06
+233149,2020-06-19,9.2,Kota Padang,Sumatera Barat,06
+234095,2020-07-19,3.1,Kab. Padang Pariaman,Sumatera Barat,07
+234097,2020-07-19,3.5,Kota Padang,Sumatera Barat,07
+234198,2020-07-19,6.3,Kab. Padang Pariaman,Sumatera Barat,07
+235167,2020-08-19,0.0,Kota Padang,Sumatera Barat,08
+237155,2020-10-19,0.0,Kota Padang,Sumatera Barat,10
+238275,2020-11-19,6.0,Kab. Padang Pariaman,Sumatera Barat,11
+238301,2020-11-19,18.0,Kota Padang,Sumatera Barat,11
+238302,2020-11-19,4.4,Kab. Padang Pariaman,Sumatera Barat,11
+239389,2020-12-19,1.0,Kab. Padang Pariaman,Sumatera Barat,12
+239390,2020-12-19,2.0,Kab. Agam,Sumatera Barat,12
+239440,2020-12-19,6.0,Kota Padang,Sumatera Barat,12
+239441,2020-12-19,9.1,Kab. Padang Pariaman,Sumatera Barat,12
+240408,2020-01-20,0.0,Kota Padang,Sumatera Barat,01
+240493,2020-01-20,9.8,Kab. Padang Pariaman,Sumatera Barat,01
+241486,2020-02-20,5.3,Kab. Padang Pariaman,Sumatera Barat,02
+241487,2020-02-20,0.0,Kota Padang,Sumatera Barat,02
+242546,2020-03-20,50.8,Kab. Padang Pariaman,Sumatera Barat,03
+242547,2020-03-20,37.0,Kota Padang,Sumatera Barat,03
+242568,2020-03-20,51.1,Kab. Padang Pariaman,Sumatera Barat,03
+243608,2020-04-20,9.9,Kab. Padang Pariaman,Sumatera Barat,04
+243642,2020-04-20,4.6,Kota Padang,Sumatera Barat,04
+243644,2020-04-20,1.5,Kab. Padang Pariaman,Sumatera Barat,04
+244686,2020-05-20,20.5,Kab. Padang Pariaman,Sumatera Barat,05
+244729,2020-05-20,15.2,Kota Padang,Sumatera Barat,05
+245689,2020-06-20,6.0,Kab. Padang Pariaman,Sumatera Barat,06
+245690,2020-06-20,3.6,Kota Padang,Sumatera Barat,06
+245775,2020-06-20,2.4,Kab. Padang Pariaman,Sumatera Barat,06
+246715,2020-07-20,14.5,Kab. Padang Pariaman,Sumatera Barat,07
+246743,2020-07-20,7.4,Kota Padang,Sumatera Barat,07
+247754,2020-08-20,32.0,Kab. Agam,Sumatera Barat,08
+249748,2020-10-20,0.0,Kab. Padang Pariaman,Sumatera Barat,10
+250819,2020-11-20,36.9,Kab. Padang Pariaman,Sumatera Barat,11
+250902,2020-11-20,71.5,Kab. Padang Pariaman,Sumatera Barat,11
+250904,2020-11-20,30.5,Kota Padang,Sumatera Barat,11
+251894,2020-12-20,1.1,Kota Padang,Sumatera Barat,12
+251940,2020-12-20,0.5,Kab. Padang Pariaman,Sumatera Barat,12
+251941,2020-12-20,4.0,Kab. Agam,Sumatera Barat,12
+253004,2020-01-21,2.1,Kab. Padang Pariaman,Sumatera Barat,01
+253006,2020-01-21,4.7,Kota Padang,Sumatera Barat,01
+254022,2020-02-21,0.0,Kota Padang,Sumatera Barat,02
+255083,2020-03-21,0.2,Kab. Padang Pariaman,Sumatera Barat,03
+255091,2020-03-21,1.0,Kota Padang,Sumatera Barat,03
+256180,2020-04-21,0.2,Kota Padang,Sumatera Barat,04
+258225,2020-06-21,3.1,Kab. Padang Pariaman,Sumatera Barat,06
+259157,2020-07-21,0.0,Kab. Padang Pariaman,Sumatera Barat,07
+259158,2020-07-21,0.0,Kota Padang,Sumatera Barat,07
+260198,2020-08-21,0.0,Kota Padang,Sumatera Barat,08
+260200,2020-08-21,0.0,Kab. Padang Pariaman,Sumatera Barat,08
+262212,2020-10-21,3.3,Kota Padang,Sumatera Barat,10
+262213,2020-10-21,0.8,Kab. Padang Pariaman,Sumatera Barat,10
+263203,2020-11-21,2.7,Kota Padang,Sumatera Barat,11
+263204,2020-11-21,26.5,Kab. Padang Pariaman,Sumatera Barat,11
+263220,2020-11-21,112.7,Kab. Padang Pariaman,Sumatera Barat,11
+264281,2020-12-21,0.0,Kota Padang,Sumatera Barat,12
+264300,2020-12-21,30.0,Kab. Agam,Sumatera Barat,12
+265337,2020-01-22,0.0,Kab. Padang Pariaman,Sumatera Barat,01
+266374,2020-02-22,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+266418,2020-02-22,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+267548,2020-03-22,0.0,Kab. Padang Pariaman,Sumatera Barat,03
+267550,2020-03-22,4.0,Kota Padang,Sumatera Barat,03
+268550,2020-04-22,0.0,Kota Padang,Sumatera Barat,04
+268565,2020-04-22,3.3,Kab. Padang Pariaman,Sumatera Barat,04
+269600,2020-05-22,0.0,Kota Padang,Sumatera Barat,05
+269616,2020-05-22,0.0,Kab. Padang Pariaman,Sumatera Barat,05
+270600,2020-06-22,40.6,Kota Padang,Sumatera Barat,06
+270601,2020-06-22,60.5,Kab. Padang Pariaman,Sumatera Barat,06
+270668,2020-06-22,30.0,Kab. Padang Pariaman,Sumatera Barat,06
+271631,2020-07-22,41.1,Kab. Padang Pariaman,Sumatera Barat,07
+271664,2020-07-22,8.6,Kota Padang,Sumatera Barat,07
+271665,2020-07-22,18.3,Kab. Padang Pariaman,Sumatera Barat,07
+272670,2020-08-22,92.3,Kab. Padang Pariaman,Sumatera Barat,08
+272671,2020-08-22,11.0,Kab. Agam,Sumatera Barat,08
+272722,2020-08-22,15.1,Kab. Padang Pariaman,Sumatera Barat,08
+272723,2020-08-22,29.5,Kota Padang,Sumatera Barat,08
+274660,2020-10-22,4.8,Kota Padang,Sumatera Barat,10
+274662,2020-10-22,1.6,Kab. Padang Pariaman,Sumatera Barat,10
+274683,2020-10-22,10.7,Kab. Padang Pariaman,Sumatera Barat,10
+275757,2020-11-22,19.4,Kab. Padang Pariaman,Sumatera Barat,11
+275790,2020-11-22,27.5,Kota Padang,Sumatera Barat,11
+275791,2020-11-22,19.0,Kab. Padang Pariaman,Sumatera Barat,11
+277893,2020-01-23,0.7,Kota Padang,Sumatera Barat,01
+277895,2020-01-23,4.2,Kab. Padang Pariaman,Sumatera Barat,01
+278959,2020-02-23,0.0,Kota Padang,Sumatera Barat,02
+279993,2020-03-23,6.6,Kota Padang,Sumatera Barat,03
+279995,2020-03-23,6.9,Kab. Padang Pariaman,Sumatera Barat,03
+280011,2020-03-23,7.0,Kab. Padang Pariaman,Sumatera Barat,03
+281053,2020-04-23,65.7,Kab. Padang Pariaman,Sumatera Barat,04
+281079,2020-04-23,1.0,Kota Padang,Sumatera Barat,04
+281081,2020-04-23,18.5,Kab. Padang Pariaman,Sumatera Barat,04
+282136,2020-05-23,4.0,Kota Padang,Sumatera Barat,05
+282137,2020-05-23,18.5,Kab. Padang Pariaman,Sumatera Barat,05
+283129,2020-06-23,82.4,Kota Padang,Sumatera Barat,06
+283209,2020-06-23,5.3,Kab. Padang Pariaman,Sumatera Barat,06
+284166,2020-07-23,54.0,Kab. Padang Pariaman,Sumatera Barat,07
+284185,2020-07-23,134.6,Kota Padang,Sumatera Barat,07
+284186,2020-07-23,188.9,Kab. Padang Pariaman,Sumatera Barat,07
+285189,2020-08-23,35.1,Kab. Padang Pariaman,Sumatera Barat,08
+285190,2020-08-23,34.0,Kota Padang,Sumatera Barat,08
+285201,2020-08-23,47.0,Kab. Agam,Sumatera Barat,08
+285202,2020-08-23,15.1,Kab. Padang Pariaman,Sumatera Barat,08
+287203,2020-10-23,8.0,Kab. Padang Pariaman,Sumatera Barat,10
+287206,2020-10-23,5.0,Kota Padang,Sumatera Barat,10
+288281,2020-11-23,22.7,Kab. Padang Pariaman,Sumatera Barat,11
+288366,2020-11-23,1.2,Kab. Padang Pariaman,Sumatera Barat,11
+288367,2020-11-23,33.2,Kota Padang,Sumatera Barat,11
+289375,2020-12-23,2.2,Kab. Padang Pariaman,Sumatera Barat,12
+290468,2020-01-24,0.8,Kota Padang,Sumatera Barat,01
+291519,2020-02-24,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+291535,2020-02-24,0.0,Kota Padang,Sumatera Barat,02
+292601,2020-03-24,0.0,Kota Padang,Sumatera Barat,03
+293623,2020-04-24,1.8,Kab. Padang Pariaman,Sumatera Barat,04
+293699,2020-04-24,4.0,Kota Padang,Sumatera Barat,04
+293701,2020-04-24,0.8,Kab. Padang Pariaman,Sumatera Barat,04
+295708,2020-06-24,0.5,Kota Padang,Sumatera Barat,06
+295749,2020-06-24,0.9,Kab. Padang Pariaman,Sumatera Barat,06
+296709,2020-07-24,32.0,Kab. Padang Pariaman,Sumatera Barat,07
+296719,2020-07-24,5.6,Kota Padang,Sumatera Barat,07
+296721,2020-07-24,2.3,Kab. Padang Pariaman,Sumatera Barat,07
+297752,2020-08-24,1.0,Kab. Agam,Sumatera Barat,08
+297766,2020-08-24,0.7,Kota Padang,Sumatera Barat,08
+299762,2020-10-24,4.5,Kab. Padang Pariaman,Sumatera Barat,10
+299816,2020-10-24,1.0,Kota Padang,Sumatera Barat,10
+300837,2020-11-24,35.9,Kab. Padang Pariaman,Sumatera Barat,11
+300838,2020-11-24,94.9,Kota Padang,Sumatera Barat,11
+300854,2020-11-24,30.7,Kab. Padang Pariaman,Sumatera Barat,11
+301902,2020-12-24,66.9,Kota Padang,Sumatera Barat,12
+301918,2020-12-24,30.9,Kab. Padang Pariaman,Sumatera Barat,12
+301919,2020-12-24,21.0,Kab. Agam,Sumatera Barat,12
+302953,2020-01-25,2.0,Kab. Padang Pariaman,Sumatera Barat,01
+302955,2020-01-25,0.5,Kota Padang,Sumatera Barat,01
+304064,2020-02-25,0.0,Kota Padang,Sumatera Barat,02
+304066,2020-02-25,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+305093,2020-03-25,46.9,Kab. Padang Pariaman,Sumatera Barat,03
+305154,2020-03-25,8.9,Kab. Padang Pariaman,Sumatera Barat,03
+306131,2020-04-25,23.0,Kota Padang,Sumatera Barat,04
+306139,2020-04-25,71.2,Kab. Padang Pariaman,Sumatera Barat,04
+307168,2020-05-25,0.0,Kota Padang,Sumatera Barat,05
+308174,2020-06-25,0.0,Kota Padang,Sumatera Barat,06
+310231,2020-08-25,0.5,Kab. Padang Pariaman,Sumatera Barat,08
+310232,2020-08-25,1.0,Kab. Agam,Sumatera Barat,08
+310283,2020-08-25,4.0,Kota Padang,Sumatera Barat,08
+310284,2020-08-25,0.0,Kab. Padang Pariaman,Sumatera Barat,08
+312228,2020-10-25,7.9,Kota Padang,Sumatera Barat,10
+312229,2020-10-25,3.9,Kab. Padang Pariaman,Sumatera Barat,10
+312249,2020-10-25,10.0,Kab. Padang Pariaman,Sumatera Barat,10
+313343,2020-11-25,48.8,Kab. Padang Pariaman,Sumatera Barat,11
+313374,2020-11-25,114.5,Kota Padang,Sumatera Barat,11
+313376,2020-11-25,62.6,Kab. Padang Pariaman,Sumatera Barat,11
+314433,2020-12-25,1.0,Kab. Agam,Sumatera Barat,12
+314434,2020-12-25,6.9,Kab. Padang Pariaman,Sumatera Barat,12
+314467,2020-12-25,15.8,Kab. Padang Pariaman,Sumatera Barat,12
+314468,2020-12-25,21.2,Kota Padang,Sumatera Barat,12
+315453,2020-01-26,3.6,Kab. Padang Pariaman,Sumatera Barat,01
+315454,2020-01-26,0.0,Kota Padang,Sumatera Barat,01
+315527,2020-01-26,28.3,Kab. Padang Pariaman,Sumatera Barat,01
+316527,2020-02-26,0.0,Kota Padang,Sumatera Barat,02
+317572,2020-03-26,5.0,Kab. Padang Pariaman,Sumatera Barat,03
+318633,2020-04-26,5.8,Kab. Padang Pariaman,Sumatera Barat,04
+319735,2020-05-26,0.2,Kota Padang,Sumatera Barat,05
+320681,2020-06-26,0.0,Kota Padang,Sumatera Barat,06
+321691,2020-07-26,5.7,Kab. Padang Pariaman,Sumatera Barat,07
+321718,2020-07-26,18.0,Kab. Padang Pariaman,Sumatera Barat,07
+321719,2020-07-26,28.0,Kota Padang,Sumatera Barat,07
+322750,2020-08-26,3.1,Kab. Padang Pariaman,Sumatera Barat,08
+324767,2020-10-26,3.1,Kab. Padang Pariaman,Sumatera Barat,10
+324791,2020-10-26,0.2,Kota Padang,Sumatera Barat,10
+324793,2020-10-26,1.5,Kab. Padang Pariaman,Sumatera Barat,10
+325837,2020-11-26,55.1,Kab. Padang Pariaman,Sumatera Barat,11
+325915,2020-11-26,144.0,Kab. Padang Pariaman,Sumatera Barat,11
+326903,2020-12-26,0.0,Kota Padang,Sumatera Barat,12
+328000,2020-01-27,19.4,Kab. Padang Pariaman,Sumatera Barat,01
+328001,2020-01-27,1.5,Kota Padang,Sumatera Barat,01
+328045,2020-01-27,13.0,Kab. Padang Pariaman,Sumatera Barat,01
+329040,2020-02-27,0.0,Kota Padang,Sumatera Barat,02
+330120,2020-03-27,10.5,Kab. Padang Pariaman,Sumatera Barat,03
+330127,2020-03-27,11.5,Kota Padang,Sumatera Barat,03
+330129,2020-03-27,4.6,Kab. Padang Pariaman,Sumatera Barat,03
+331198,2020-04-27,37.0,Kab. Padang Pariaman,Sumatera Barat,04
+331267,2020-04-27,10.3,Kab. Padang Pariaman,Sumatera Barat,04
+331269,2020-04-27,12.9,Kota Padang,Sumatera Barat,04
+332233,2020-05-27,2.5,Kab. Padang Pariaman,Sumatera Barat,05
+332280,2020-05-27,2.6,Kab. Padang Pariaman,Sumatera Barat,05
+334251,2020-07-27,24.0,Kab. Padang Pariaman,Sumatera Barat,07
+334266,2020-07-27,1.0,Kab. Padang Pariaman,Sumatera Barat,07
+334267,2020-07-27,0.5,Kota Padang,Sumatera Barat,07
+335324,2020-08-27,1.0,Kab. Agam,Sumatera Barat,08
+335340,2020-08-27,13.6,Kota Padang,Sumatera Barat,08
+335342,2020-08-27,4.5,Kab. Padang Pariaman,Sumatera Barat,08
+337337,2020-10-27,4.0,Kab. Padang Pariaman,Sumatera Barat,10
+337381,2020-10-27,3.4,Kab. Padang Pariaman,Sumatera Barat,10
+337384,2020-10-27,4.3,Kota Padang,Sumatera Barat,10
+338386,2020-11-27,13.1,Kota Padang,Sumatera Barat,11
+338388,2020-11-27,14.8,Kab. Padang Pariaman,Sumatera Barat,11
+338403,2020-11-27,19.7,Kab. Padang Pariaman,Sumatera Barat,11
+339493,2020-12-27,0.3,Kab. Padang Pariaman,Sumatera Barat,12
+339510,2020-12-27,2.0,Kab. Agam,Sumatera Barat,12
+339511,2020-12-27,3.8,Kab. Padang Pariaman,Sumatera Barat,12
+340522,2020-01-28,0.0,Kota Padang,Sumatera Barat,01
+340524,2020-01-28,0.0,Kab. Padang Pariaman,Sumatera Barat,01
+341601,2020-02-28,0.0,Kota Padang,Sumatera Barat,02
+341602,2020-02-28,0.0,Kab. Padang Pariaman,Sumatera Barat,02
+342657,2020-03-28,42.3,Kab. Padang Pariaman,Sumatera Barat,03
+342721,2020-03-28,1.3,Kota Padang,Sumatera Barat,03
+343653,2020-04-28,3.2,Kab. Padang Pariaman,Sumatera Barat,04
+343654,2020-04-28,5.4,Kota Padang,Sumatera Barat,04
+343674,2020-04-28,2.0,Kab. Padang Pariaman,Sumatera Barat,04
+344724,2020-05-28,0.0,Kab. Padang Pariaman,Sumatera Barat,05
+346746,2020-07-28,10.9,Kab. Padang Pariaman,Sumatera Barat,07
+346787,2020-07-28,14.4,Kab. Padang Pariaman,Sumatera Barat,07
+347833,2020-08-28,0.0,Kota Padang,Sumatera Barat,08
+349876,2020-10-28,0.0,Kota Padang,Sumatera Barat,10
+350952,2020-11-28,4.1,Kab. Padang Pariaman,Sumatera Barat,11
+350953,2020-11-28,0.0,Kota Padang,Sumatera Barat,11
+351017,2020-11-28,0.8,Kab. Padang Pariaman,Sumatera Barat,11
+352044,2020-12-28,0.5,Kota Padang,Sumatera Barat,12
+353090,2020-01-29,105.0,Kab. Padang Pariaman,Sumatera Barat,01
+353146,2020-01-29,149.0,Kab. Padang Pariaman,Sumatera Barat,01
+353148,2020-01-29,145.6,Kota Padang,Sumatera Barat,01
+354437,2020-03-29,11.4,Kab. Padang Pariaman,Sumatera Barat,03
+354477,2020-03-29,1.7,Kab. Padang Pariaman,Sumatera Barat,03
+355513,2020-04-29,40.0,Kab. Padang Pariaman,Sumatera Barat,04
+356533,2020-05-29,0.0,Kota Padang,Sumatera Barat,05
+357580,2020-06-29,0.0,Kota Padang,Sumatera Barat,06
+358609,2020-07-29,36.8,Kab. Padang Pariaman,Sumatera Barat,07
+358611,2020-07-29,3.6,Kota Padang,Sumatera Barat,07
+358665,2020-07-29,48.5,Kab. Padang Pariaman,Sumatera Barat,07
+359592,2020-08-29,0.0,Kab. Agam,Sumatera Barat,08
+359643,2020-08-29,0.0,Kab. Padang Pariaman,Sumatera Barat,08
+360729,2020-09-29,7.4,Kab. Padang Pariaman,Sumatera Barat,09
+360730,2020-09-29,3.7,Kota Padang,Sumatera Barat,09
+361747,2020-10-29,0.0,Kota Padang,Sumatera Barat,10
+362840,2020-11-29,19.9,Kab. Padang Pariaman,Sumatera Barat,11
+362841,2020-11-29,14.3,Kota Padang,Sumatera Barat,11
+362859,2020-11-29,38.9,Kab. Padang Pariaman,Sumatera Barat,11
+363899,2020-12-29,1.0,Kab. Padang Pariaman,Sumatera Barat,12
+363900,2020-12-29,3.6,Kota Padang,Sumatera Barat,12
+363967,2020-12-29,22.0,Kab. Agam,Sumatera Barat,12
+364944,2020-01-30,0.0,Kab. Padang Pariaman,Sumatera Barat,01
+366016,2020-03-30,58.8,Kab. Padang Pariaman,Sumatera Barat,03
+366066,2020-03-30,2.3,Kota Padang,Sumatera Barat,03
+366068,2020-03-30,54.5,Kab. Padang Pariaman,Sumatera Barat,03
+367020,2020-04-30,7.4,Kota Padang,Sumatera Barat,04
+367021,2020-04-30,6.0,Kab. Padang Pariaman,Sumatera Barat,04
+367044,2020-04-30,19.5,Kab. Padang Pariaman,Sumatera Barat,04
+368136,2020-05-30,0.0,Kab. Padang Pariaman,Sumatera Barat,05
+369126,2020-06-30,1.1,Kota Padang,Sumatera Barat,06
+369198,2020-06-30,0.7,Kab. Padang Pariaman,Sumatera Barat,06
+370174,2020-07-30,0.8,Kota Padang,Sumatera Barat,07
+370176,2020-07-30,3.4,Kab. Padang Pariaman,Sumatera Barat,07
+371197,2020-08-30,2.0,Kab. Agam,Sumatera Barat,08
+371198,2020-08-30,23.7,Kab. Padang Pariaman,Sumatera Barat,08
+371245,2020-08-30,0.0,Kota Padang,Sumatera Barat,08
+373316,2020-10-30,0.0,Kota Padang,Sumatera Barat,10
+373327,2020-10-30,9.4,Kab. Padang Pariaman,Sumatera Barat,10
+374438,2020-11-30,0.3,Kab. Padang Pariaman,Sumatera Barat,11
+375406,2020-12-30,8.2,Kab. Padang Pariaman,Sumatera Barat,12
+375407,2020-12-30,13.0,Kab. Agam,Sumatera Barat,12
+375446,2020-12-30,1.0,Kab. Padang Pariaman,Sumatera Barat,12
+376544,2020-01-31,0.0,Kota Padang,Sumatera Barat,01
+377511,2020-03-31,2.0,Kota Padang,Sumatera Barat,03
+377514,2020-03-31,0.0,Kab. Padang Pariaman,Sumatera Barat,03
+377524,2020-03-31,10.6,Kab. Padang Pariaman,Sumatera Barat,03
+378614,2020-05-31,1.0,Kota Padang,Sumatera Barat,05
+378632,2020-05-31,41.7,Kab. Padang Pariaman,Sumatera Barat,05
+379612,2020-07-31,0.0,Kota Padang,Sumatera Barat,07
+379614,2020-07-31,0.0,Kab. Padang Pariaman,Sumatera Barat,07
+380590,2020-08-31,8.3,Kab. Padang Pariaman,Sumatera Barat,08
+380632,2020-08-31,31.2,Kab. Padang Pariaman,Sumatera Barat,08
+380635,2020-08-31,2.1,Kota Padang,Sumatera Barat,08
+381678,2020-10-31,4.9,Kab. Padang Pariaman,Sumatera Barat,10
+382709,2020-12-31,2.6,Kab. Padang Pariaman,Sumatera Barat,12
+382710,2020-12-31,1.0,Kota Padang,Sumatera Barat,12
+382803,2020-12-31,45.2,Kab. Padang Pariaman,Sumatera Barat,12
+382804,2020-12-31,11.0,Kab. Agam,Sumatera Barat,12
